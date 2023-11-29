@@ -1,0 +1,14 @@
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\bin\Debug\net6.0\Moment_3_Gästbok.exe
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\bin\Debug\net6.0\Moment_3_Gästbok.deps.json
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\bin\Debug\net6.0\Moment_3_Gästbok.runtimeconfig.json
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\bin\Debug\net6.0\Moment_3_Gästbok.dll
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\bin\Debug\net6.0\Moment_3_Gästbok.pdb
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\obj\Debug\net6.0\Moment_3_Gästbok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\obj\Debug\net6.0\Moment_3_Gästbok.AssemblyInfoInputs.cache
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\obj\Debug\net6.0\Moment_3_Gästbok.AssemblyInfo.cs
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\obj\Debug\net6.0\Moment_3_Gästbok.csproj.CoreCompileInputs.cache
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\obj\Debug\net6.0\Moment_3_Gästbok.dll
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\obj\Debug\net6.0\refint\Moment_3_Gästbok.dll
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\obj\Debug\net6.0\Moment_3_Gästbok.pdb
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\obj\Debug\net6.0\Moment_3_Gästbok.genruntimeconfig.cache
+C:\Users\46725\source\repos\Moment_3_Gästbok\Moment_3_Gästbok\obj\Debug\net6.0\ref\Moment_3_Gästbok.dll
