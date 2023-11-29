@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46725\\source\\repos\\Moment_3_Gästbok\\Moment_3_Gästbok\\Moment_3_Gästbok.csproj",
+      "projectUniqueName": "C:\\Users\\46725\\Desktop\\test\\G-stbok_moment_3\\Moment_3_Gästbok\\Moment_3_Gästbok\\Moment_3_Gästbok.csproj",
       "projectName": "Moment_3_Gästbok",
-      "projectPath": "C:\\Users\\46725\\source\\repos\\Moment_3_Gästbok\\Moment_3_Gästbok\\Moment_3_Gästbok.csproj",
+      "projectPath": "C:\\Users\\46725\\Desktop\\test\\G-stbok_moment_3\\Moment_3_Gästbok\\Moment_3_Gästbok\\Moment_3_Gästbok.csproj",
       "packagesPath": "C:\\Users\\46725\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46725\\source\\repos\\Moment_3_Gästbok\\Moment_3_Gästbok\\obj\\",
+      "outputPath": "C:\\Users\\46725\\Desktop\\test\\G-stbok_moment_3\\Moment_3_Gästbok\\Moment_3_Gästbok\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\46725\\AppData\\Roaming\\NuGet\\NuGet.Config",

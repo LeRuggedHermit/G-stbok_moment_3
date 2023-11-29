@@ -9,9 +9,8 @@ namespace Moment_3_Gästbok
     //inläggs-klassen:
     internal class Post
     {
-        //Jämförelse ID för att kunna förse nytt inlägg med korrekt index-nummer:
-        private static int nextId = 1;
-        //egenskap för namn:
+   
+
         public string ? Name { get; set; }
         //egenskap för meddelande:
         public string ? Message { get; set; }
